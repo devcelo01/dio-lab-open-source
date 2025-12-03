@@ -69,12 +69,8 @@ Aqui estão alguns projetos que desenvolvi ou estou desenvolvendo:
 
 ## 📊 Estatísticas do Meu GitHub
 
-> As estatísticas são exibidas automaticamente quando inseridas como imagens usando serviços externos como GitHub Readme Stats.
-
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=marcelo-andrade&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-andrade&layout=compact&theme=dark)
-```
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=devcelo01\&show_icons=true\&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devcelo01\&layout=compact\&theme=dark)
 
 ---
 
